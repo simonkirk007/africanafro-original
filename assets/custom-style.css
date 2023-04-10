@@ -139,7 +139,7 @@
   }
 .slick-prev:hover svg {
   -webkit-animation: buttonFromRightToLeft .5s ease-in-out forwards;
-  animation: buttonFromLeftToRight .5s ease-in-out forwards;
+  animation: buttonFromRightToLeft .5s ease-in-out forwards;
   }
 
 .new-arrival {
