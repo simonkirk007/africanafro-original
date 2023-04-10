@@ -207,6 +207,8 @@
     font-size: 31px;
     text-transform: none;
     padding-bottom: 22px;
+    line-height: 32px;
+    font-family: 'Tenor Sans', sans-serif;
 }
 
 .best-seeller-inner-item p {
@@ -236,6 +238,7 @@
     padding: 25px 0;
     font-family: 'Tenor Sans', sans-serif;
     margin: 0;
+    line-height: 42px;
   }
 
 .best-seller-content h5 {
