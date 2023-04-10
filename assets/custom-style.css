@@ -282,3 +282,18 @@
   font-family: "Merriweather Sans", sans-serif;
   text-transform: unset;
 }
+
+
+.top-bar-item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #320032;
+}
+.top-bar {
+  background-color: #320032;
+}
+
+.top-bar-item a {
+  color: #fff;
+  padding-top: 9px;
+}
