@@ -161,6 +161,11 @@
 .slick-arrow svg {
   height: 18px;
 }
+
+.slick-arrow:hover{
+  transform: scale(1.1);
+}
+
 .slick-next:hover svg {
   -webkit-animation: buttonFromLeftToRight .5s ease-in-out forwards;
   animation: buttonFromLeftToRight .5s ease-in-out forwards;
