@@ -217,7 +217,7 @@
 }
 .best-seller-content h2 {
     margin: 0 auto;
-    background-color: var(--c1);
+    background-color: #320032;
     color: #fff;
     width: max-content;
     height: max-content;
@@ -231,6 +231,7 @@
     font-weight: 600;
     padding: 25px 0;
     font-family: 'Tenor Sans', sans-serif;
+    margin: 0;
   }
 
 .best-seller-content h5 {
