@@ -133,6 +133,15 @@
 .slick-arrow svg {
   height: 18px;
 }
+.slick-next:hover svg {
+  -webkit-animation: buttonFromLeftToRight .5s ease-in-out forwards;
+  animation: buttonFromLeftToRight .5s ease-in-out forwards;
+  }
+.slick-prev:hover svg {
+  -webkit-animation: buttonFromRightToLeft .5s ease-in-out forwards;
+  animation: buttonFromLeftToRight .5s ease-in-out forwards;
+  }
+
 .new-arrival {
   padding: 70px 0;
 }
