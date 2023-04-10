@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap");
+.ProductItem:hover .second-image {
+  opacity: 1;
+  top: 0;
+}
+.ProductItem .second-image {
+  opacity: 0;
+  transition: all .7s;
+  top: -100%;
+}
+.Slideshow__Content header {
+    width: 50%;
+}
+
+.Slideshow__Content header h2.SectionHeader__Heading {
+    font-size: 60px !important;
+    font-family: Tenor Sans,sans-serif;
+    line-height: 60px !important;
+    letter-spacing: 0;
+  margin-bottom: 22px;
+}
+.Slideshow__Content header h3.SectionHeader__SubHeading {
+    font-size: 20px !important;
+    text-transform: uppercase !important;
+    background-color: #320032;
+    width: max-content;
+    color: #fff !important;
+    padding: 5px 12px;
+    font-family: Tenor Sans,sans-serif;
+    margin-bottom: 22px;
+}
+.Slideshow__Content header .SectionHeader__content {
+    max-width: 550px;
+}
+
+.Slideshow__Content.textalign-center header .SectionHeader__content {
+    margin-left: auto;
+    margin-right: auto;
+}
+.Slideshow__Content.textalign-center header {
+    margin: 0 auto;
+}
+
+.Slideshow__Content.textalign-center header h3.SectionHeader__SubHeading {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ProductItem {
+  overflow: hidden;
+}
