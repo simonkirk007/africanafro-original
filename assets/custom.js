@@ -75,9 +75,9 @@ $(".arrival-slider").slick({
     slidesToShow: 1,
     slidesToScroll: 1,
     prevArrow:
-    '<div class="slick-prev"><i class="fal fa-arrow-circle-left"></i></div>',
+    '<div class="slick-prev"><svg viewBox="0 0 100 100"><path d="M 20,50 L 60,90 L 60,85 L 25,50  L 60,15 L 60,10 Z" class="arrow"></path></svg></div>',
   nextArrow:
-    '<div class="slick-next"><i class="fal fa-arrow-circle-right"></i></div>',
+    '<div class="slick-next"><svg viewBox="0 0 100 100"><path d="M 20,50 L 60,90 L 60,85 L 25,50  L 60,15 L 60,10 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></div>',
     responsive: [
       {
         breakpoint: 1024,
