@@ -26,12 +26,12 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap'); */
 .ProductItem:hover .second-image {
   opacity: 1;
-  top: 0;
+  /* top: 0; */
 }
 .ProductItem .second-image {
   opacity: 0;
   transition: all .7s;
-  top: -100%;
+  top: 0;
 }
 .Slideshow__Content header {
     width: 50%;
