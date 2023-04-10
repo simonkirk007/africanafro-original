@@ -502,9 +502,10 @@
         "button_text": "View all articles"
       }
     },
-    "99c5c108-58a7-454a-9308-659d872eb881": {
+    "dd814262-23de-411f-8ad2-98cc2f9ae2ff": {
       "type": "custom-arrival",
       "settings": {
+        "titlee": "New Arrivals",
         "collection": "natural-african-beauty-body"
       }
     }
@@ -521,6 +522,6 @@
     "timeline",
     "1639369372e53f69d3",
     "blog-posts",
-    "99c5c108-58a7-454a-9308-659d872eb881"
+    "dd814262-23de-411f-8ad2-98cc2f9ae2ff"
   ]
 }
