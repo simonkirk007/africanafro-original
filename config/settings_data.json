@@ -69,7 +69,7 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "content": "GET 20% OFF for first purchase!",
+          "text_left": "GET 20% OFF for First Purchase!",
           "phone_left": "850-660-3983"
         }
       },
