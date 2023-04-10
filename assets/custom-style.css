@@ -230,7 +230,8 @@
     text-transform: none;
     font-weight: 600;
     padding: 25px 0;
-}
+    font-family: 'Tenor Sans', sans-serif;
+  }
 
 .best-seller-content h5 {
     font-size: 25px;
