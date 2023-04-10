@@ -512,6 +512,94 @@
         "button_link": "",
         "button_text": "View all articles"
       }
+    },
+    "8251b276-fc2f-4c3c-a44b-6be23f82356e": {
+      "type": "custom-best-seller",
+      "blocks": {
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-0": {
+          "type": "column",
+          "settings": {
+            "title": "Collections",
+            "content": "<p>Collections<\/p>",
+            "title_right_top": "Collections",
+            "title_product": "Collections",
+            "sub_heading": "Collections",
+            "link_title": "Collections",
+            "link_url": ""
+          }
+        },
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-1": {
+          "type": "column",
+          "settings": {
+            "title": "Collections",
+            "content": "<p>Collections<\/p>",
+            "title_right_top": "Collections",
+            "title_product": "Collections",
+            "sub_heading": "Collections",
+            "link_title": "Collections",
+            "link_url": ""
+          }
+        },
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-2": {
+          "type": "column",
+          "settings": {
+            "title": "Collections",
+            "content": "<p>Collections<\/p>",
+            "title_right_top": "Collections",
+            "title_product": "Collections",
+            "sub_heading": "Collections",
+            "link_title": "Collections",
+            "link_url": ""
+          }
+        },
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-3": {
+          "type": "column",
+          "settings": {
+            "title": "Collections",
+            "content": "<p>Collections<\/p>",
+            "title_right_top": "Collections",
+            "title_product": "Collections",
+            "sub_heading": "Collections",
+            "link_title": "Collections",
+            "link_url": ""
+          }
+        },
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-4": {
+          "type": "column",
+          "settings": {
+            "title": "Collections",
+            "content": "<p>Collections<\/p>",
+            "title_right_top": "Collections",
+            "title_product": "Collections",
+            "sub_heading": "Collections",
+            "link_title": "Collections",
+            "link_url": ""
+          }
+        },
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-5": {
+          "type": "column",
+          "settings": {
+            "title": "Collections",
+            "content": "<p>Collections<\/p>",
+            "title_right_top": "Collections",
+            "title_product": "Collections",
+            "sub_heading": "Collections",
+            "link_title": "Collections",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-0",
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-1",
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-2",
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-3",
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-4",
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-5"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/best-seller.webp"
+      }
     }
   },
   "order": [
@@ -526,6 +614,7 @@
     "featured-product",
     "timeline",
     "1639369372e53f69d3",
-    "blog-posts"
+    "blog-posts",
+    "8251b276-fc2f-4c3c-a44b-6be23f82356e"
   ]
 }
