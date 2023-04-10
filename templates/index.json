@@ -501,6 +501,13 @@
         "button_link": "",
         "button_text": "View all articles"
       }
+    },
+    "99c5c108-58a7-454a-9308-659d872eb881": {
+      "type": "custom-arrival",
+      "settings": {
+        "titlee": "Collections",
+        "collection": "natural-african-beauty-body"
+      }
     }
   },
   "order": [
@@ -514,6 +521,7 @@
     "featured-product",
     "timeline",
     "1639369372e53f69d3",
-    "blog-posts"
+    "blog-posts",
+    "99c5c108-58a7-454a-9308-659d872eb881"
   ]
 }
