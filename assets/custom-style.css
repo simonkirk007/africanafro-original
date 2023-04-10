@@ -273,3 +273,7 @@
 .best-seller .slick-arrow {
   top: -50px;
 }
+.ProductItem__Title,
+.ProductItem__PriceList {
+  font-weight: 800;
+}
