@@ -69,12 +69,8 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "enable_bar": true,
-          "home_page_only": false,
-          "background": "#330033",
-          "text_color": "#ffffff",
           "content": "GET 20% OFF for first purchase!",
-          "link": ""
+          "phone_left": "850-660-3983"
         }
       },
       "header": {
