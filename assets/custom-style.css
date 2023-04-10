@@ -283,6 +283,11 @@
   text-transform: unset;
 }
 
+.top-bar .text-white {
+  color: #fff;
+  margin: 0;
+  line-height: 1.5;
+}
 
 .top-bar-item {
   display: flex;
@@ -296,5 +301,4 @@
 
 .top-bar-item a {
   color: #fff;
-  padding-top: 9px;
 }
