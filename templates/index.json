@@ -212,6 +212,7 @@
     },
     "featured-collections": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "featured-collection-0": {
           "type": "collection",
@@ -234,6 +235,44 @@
         "show_color_swatch": false,
         "grid_mobile_items_per_row": "1",
         "grid_desktop_items_per_row": 4
+      }
+    },
+    "8251b276-fc2f-4c3c-a44b-6be23f82356e": {
+      "type": "custom-best-seller",
+      "blocks": {
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-0": {
+          "type": "column",
+          "settings": {
+            "title": "Conditioner & Repair Cream",
+            "image": "shopify:\/\/shop_images\/20230329025446_1-ARGAN-OIL-LEAVE-IN-CONDITIONER-_-REPAIR-CREAM.webp",
+            "content": "<p>We've created a revitalizing conditioning cream that gives deeply penetrating moisture to strands in need of strengthening and repair.<\/p>",
+            "title_right_top": "BEST <br> Sellers",
+            "title_product": "Conditioner & Repair Cream",
+            "sub_heading": "8 fl. oz.",
+            "link_title": "Add To Cart",
+            "link_url": "shopify:\/\/products\/argan-oil-leave-in-conditioning-repair-cream"
+          }
+        },
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-1": {
+          "type": "column",
+          "settings": {
+            "title": "Enhance & Repair Deep Conditioner",
+            "image": "shopify:\/\/shop_images\/bottle-3.webp",
+            "content": "<p>African Afro Enhancing Conditioner detangles and rehydrates hair without weighing it down.<\/p>",
+            "title_right_top": "BEST <br> Sellers",
+            "title_product": "Enhance & Repair Deep Conditioner",
+            "sub_heading": "8 fl. oz.",
+            "link_title": "Add To Cart",
+            "link_url": "shopify:\/\/products\/black-castor-oil-enhance-repair-deep-conditioner"
+          }
+        }
+      },
+      "block_order": [
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-0",
+        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/best-seller.webp"
       }
     },
     "shop-the-look": {
@@ -512,44 +551,6 @@
         "button_link": "",
         "button_text": "View all articles"
       }
-    },
-    "8251b276-fc2f-4c3c-a44b-6be23f82356e": {
-      "type": "custom-best-seller",
-      "blocks": {
-        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-0": {
-          "type": "column",
-          "settings": {
-            "title": "Conditioner & Repair Cream",
-            "image": "shopify:\/\/shop_images\/20230329025446_1-ARGAN-OIL-LEAVE-IN-CONDITIONER-_-REPAIR-CREAM.webp",
-            "content": "<p>We've created a revitalizing conditioning cream that gives deeply penetrating moisture to strands in need of strengthening and repair.<\/p>",
-            "title_right_top": "BEST <br> Sellers",
-            "title_product": "Conditioner & Repair Cream",
-            "sub_heading": "8 fl. oz.",
-            "link_title": "Add To Cart",
-            "link_url": "shopify:\/\/products\/argan-oil-leave-in-conditioning-repair-cream"
-          }
-        },
-        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-1": {
-          "type": "column",
-          "settings": {
-            "title": "Enhance & Repair Deep Conditioner",
-            "image": "shopify:\/\/shop_images\/bottle-3.webp",
-            "content": "<p>African Afro Enhancing Conditioner detangles and rehydrates hair without weighing it down.<\/p>",
-            "title_right_top": "BEST <br> Sellers",
-            "title_product": "Enhance & Repair Deep Conditioner",
-            "sub_heading": "8 fl. oz.",
-            "link_title": "Add To Cart",
-            "link_url": "shopify:\/\/products\/black-castor-oil-enhance-repair-deep-conditioner"
-          }
-        }
-      },
-      "block_order": [
-        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-0",
-        "template--15359571525839__8251b276-fc2f-4c3c-a44b-6be23f82356e-16811102203ddc3946-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/best-seller.webp"
-      }
     }
   },
   "order": [
@@ -559,12 +560,12 @@
     "1639273087c6075a15",
     "collection-list",
     "featured-collections",
+    "8251b276-fc2f-4c3c-a44b-6be23f82356e",
     "shop-the-look",
     "1639376256b399ca64",
     "featured-product",
     "timeline",
     "1639369372e53f69d3",
-    "blog-posts",
-    "8251b276-fc2f-4c3c-a44b-6be23f82356e"
+    "blog-posts"
   ]
 }
