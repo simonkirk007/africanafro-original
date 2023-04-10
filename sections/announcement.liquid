@@ -1,60 +1,18 @@
-{%- if section.settings.enable_bar -%}
-  {%- unless section.settings.home_page_only and template != 'index' -%}
-    <section id="section-{{ section.id }}" data-section-id="{{ section.id }}" data-section-type="announcement-bar">
-      <div class="AnnouncementBar">
-        <div class="AnnouncementBar__Wrapper">
-          <p class="AnnouncementBar__Content Heading">
-            {%- if section.settings.link -%}
-              <a href="{{ section.settings.link }}">{{ section.settings.content | escape }}</a>
-            {%- else -%}
-              {{ section.settings.content | escape }}
-            {%- endif -%}
-          </p>
+<div class="top-bar">
+    <div class="container">
+        <div class="top-bar-item align-items-center">
+          {%- for block in section.blocks -%}
+            <p class="text-white py-2 m-0">{{ block.settings.text_left | escape }}</p>
+            <a href="tel:{{ block.settings.phone_left | escape }}"><i class="fas fa-phone-alt"></i> Phone : {{ block.settings.phone_left | escape }}</a>
+          {%- endfor -%}
         </div>
-      </div>
-    </section>
-
-    <style>
-      #section-{{ section.id }} {
-        background: {{ section.settings.background }};
-        color: {{ section.settings.text_color }};
-      }
-    </style>
-
-    <script>
-      document.documentElement.style.setProperty('--announcement-bar-height', document.getElementById('shopify-section-announcement').offsetHeight + 'px');
-    </script>
-  {%- endunless -%}
-{%- endif -%}
+    </div>
+</div>
 
 {% schema %}
 {
   "name": "Announcement bar",
   "settings": [
-    {
-      "type": "checkbox",
-      "id": "enable_bar",
-      "label": "Enable bar",
-      "default": true
-    },
-    {
-      "type": "checkbox",
-      "id": "home_page_only",
-      "label": "Home page only",
-      "default": false
-    },
-    {
-      "type": "color",
-      "id": "background",
-      "label": "Background",
-      "default": "#000000"
-    },
-    {
-      "type": "color",
-      "id": "text_color",
-      "label": "Text",
-      "default": "#ffffff"
-    },
     {
       "type": "text",
       "id": "content",
@@ -62,9 +20,10 @@
       "default": "Announce something here"
     },
     {
-      "type": "url",
-      "id": "link",
-      "label": "Link"
+      "type": "text",
+      "id": "phone_left",
+      "default": "Welcome to our store",
+      "label": "t:sections.announcement-bar.blocks.announcement.settings.text.label"
     }
   ]
 }
