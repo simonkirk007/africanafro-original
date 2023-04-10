@@ -1,1 +1,546 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/20230404194138_4-banner-002.jpg","mobile_image":"shopify:\/\/shop_images\/20230404194138_4-banner-002.jpg","apply_overlay":false,"content_position":"bottomLeft","show_section":"left","subheading":"WELCOME TO AFRICAN AFRO","title":"Natural Hair Care Products","content":"<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>","button_1_text":"Shop Now","button_1_link":"shopify:\/\/collections\/all","button_2_text":"Contact Us","button_2_link":"shopify:\/\/pages\/contact-us"}},"a61b62f0-8f92-4ddf-b9ce-f70194a49b31":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/20230404194138_1-banner-00.jpg","mobile_image":"shopify:\/\/shop_images\/20230404194138_1-banner-00.jpg","apply_overlay":false,"content_position":"bottomLeft","show_section":"left","subheading":"WELCOME TO AFRICAN AFRO","title":"For The Natural African Beauty","content":"<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>","button_1_text":"Shop Now","button_1_link":"shopify:\/\/collections\/all","button_2_text":"Contact Us","button_2_link":"shopify:\/\/pages\/contact-us"}},"aade2d11-b23b-4b89-baa9-b3af06da1370":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/20230404194138_5-banner-003.jpg","mobile_image":"shopify:\/\/shop_images\/20230404194138_5-banner-003.jpg","apply_overlay":false,"content_position":"bottomLeft","show_section":"left","subheading":"WELCOME TO AFRICAN AFRO","title":"Natural Hair Care Products","content":"<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>","button_1_text":"Shop Now","button_1_link":"shopify:\/\/collections\/all","button_2_text":"Shop Now","button_2_link":"shopify:\/\/pages\/contact-us"}},"0c069cdf-e100-4469-ab03-f9aa75aa6675":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/20230404194138_3-banner-01-no-text.jpg","mobile_image":"shopify:\/\/shop_images\/20230404194138_3-banner-01-no-text.jpg","apply_overlay":false,"content_position":"middleCenter","show_section":"center","subheading":"WELCOME TO AFRICAN AFRO","title":"For The Natural African Beauty","content":"<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>","button_1_text":"Shop Now","button_1_link":"shopify:\/\/collections\/all","button_2_text":"Contact Us","button_2_link":"shopify:\/\/pages\/contact-us"}},"slide-1":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/header_3.png","mobile_image":"shopify:\/\/shop_images\/header_3.png","apply_overlay":false,"content_position":"bottomLeft","show_section":"left","subheading":"","title":"","content":"<p>Tell your story<\/p>","button_1_text":"","button_1_link":"","button_2_text":"","button_2_link":""}}},"block_order":["slide-0","a61b62f0-8f92-4ddf-b9ce-f70194a49b31","aade2d11-b23b-4b89-baa9-b3af06da1370","0c069cdf-e100-4469-ab03-f9aa75aa6675","slide-1"],"settings":{"show_fullscreen":false,"show_arrow":true,"autoplay":true,"cycle_speed":8,"text_color":"#000000","button_color":"#ffffff","button_background":"#320032"}},"16439491463587616c":{"type":"shop-now","blocks":{"1643949146c3b9619f-0":{"type":"quote","settings":{"content":"<p>AFRICAN QUEEN<\/p><p><em>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/em><\/p>","author":""}}},"block_order":["1643949146c3b9619f-0"],"settings":{"title":"Shop now","collection":"hair","grid_items_count":12,"show_product_info":true,"show_vendor":false,"show_color_swatch":false}},"1639273087c6075a15":{"type":"text-with-image","disabled":true,"settings":{"subheading":"Products For the","title":"AFRICAN QUEEN","image_position":"right","content":"<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>","link_text":"","link_url":""}},"collection-list":{"type":"collection-list","blocks":{"collection-0":{"type":"collection","settings":{"collection":"hair","image":"shopify:\/\/shop_images\/hair_1.png","image_alignment":"center center","content_position":"bottomLeft","subheading":"AFRICAN AFRO","title":"HAIR CARE COLLECTION","button_text":"View products","button_link":"","apply_overlay":true}},"collection-1":{"type":"collection","settings":{"collection":"natural-african-beauty-facial","image":"shopify:\/\/shop_images\/face_1.png","image_alignment":"center center","content_position":"bottomLeft","subheading":"NATURAL AFRICAN BEAUTY","title":"FACIAL COLLECTION","button_text":"View products","button_link":"","apply_overlay":false}},"collection-2":{"type":"collection","settings":{"collection":"natural-african-beauty-body","image":"shopify:\/\/shop_images\/raphael-lovaski-Lw-ahUKYhiY-unsplash.png","image_alignment":"center center","content_position":"bottomLeft","subheading":"NATURAL AFRICAN BEAUTY","title":"BODY COLLECTION","button_text":"View products","button_link":"","apply_overlay":false}}},"block_order":["collection-0","collection-1","collection-2"],"settings":{"image_size":"normal","add_spacing":true,"expand_collection":false,"stack_on_mobile":true,"text_color":"#ffffff","button_color":"#363636"}},"featured-collections":{"type":"featured-collections","blocks":{"featured-collection-0":{"type":"collection","settings":{"collection":"bundles","title":"","grid_items_count":8,"button_text":"View all products"}}},"block_order":["featured-collection-0"],"settings":{"title":"","layout_mode":"carousel","show_product_info":true,"show_vendor":false,"show_color_swatch":false,"grid_mobile_items_per_row":"1","grid_desktop_items_per_row":4}},"shop-the-look":{"type":"shop-the-look","blocks":{"look-0":{"type":"look","settings":{"image":"shopify:\/\/shop_images\/moisturizing-shampoo-conditioner-2.png","dot_style":"light","product_1":"moisturizing-softening-shampoo","product_1_horizontal_position":35,"product_1_vertical_position":46,"product_2":"moisturizing-softening-conditioner","product_2_horizontal_position":54,"product_2_vertical_position":73,"product_3":"","product_3_horizontal_position":70,"product_3_vertical_position":50}},"look-1":{"type":"look","settings":{"image":"shopify:\/\/shop_images\/revitalizing-curling-pudding_70078d06-e4f7-4048-bdab-f269bfc91f87.png","dot_style":"light","product_1":"revitalizing-curling-cream","product_1_horizontal_position":21,"product_1_vertical_position":70,"product_2":"moisturizing-co-wash-conditioner","product_2_horizontal_position":45,"product_2_vertical_position":37,"product_3":"refresh-moisturizing-treatment-spray","product_3_horizontal_position":67,"product_3_vertical_position":27}}},"block_order":["look-0","look-1"],"settings":{"subheading":"","title":"AFRICAN AFRO Favorites","show_mobile_product_info":false}},"1639376256b399ca64":{"type":"slideshow","blocks":{"16393762564a90a1c0-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Shea_butter_1.png","apply_overlay":true,"content_position":"bottomLeft","show_section":"left","subheading":"","title":"STRENGHTENS & REPAIRS","content":"<p>Tell your story<\/p>","button_1_text":"Our Shea butter and plant oils work together to protect hair from drying out while also providing necessary hydration without being greasy. They also protect the hair from breakage and split ends, strengthening and repairing it.","button_1_link":"","button_2_text":"","button_2_link":""}},"16393762564a90a1c0-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Argan_Oil.png","apply_overlay":true,"content_position":"bottomLeft","show_section":"left","subheading":"","title":"PREVENTS ITCHINESS & FLAKINESS","content":"<p>Tell your story<\/p>","button_1_text":"Our Argan Oil and Aloe Vera combine to penetrate deep into the follicles, aiding in the promotion of a healthy scalp and preventing dandruff. The pH of your scalp and hair is balanced with our organic apple cider vinegar. It also gives the hair a lustrous sheen and suppleness.","button_1_link":"","button_2_text":"","button_2_link":""}},"16c9ce29-1a86-4f27-ab1b-b5707796aeb4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Castor_Seed_oil.png","apply_overlay":true,"content_position":"bottomLeft","show_section":"left","subheading":"","title":"PROMOTES GROWTH","content":"<p>Tell your story<\/p>","button_1_text":"Our carefully selected botanical oils, including Castor oil, Olive oil, Tea Tree oil, Sweet Almond Oil, Organic Moroccan Argan Oil, and Organic Sunflower Oil, combined promote a healthy scalp and hair growth.","button_1_link":"","button_2_text":"","button_2_link":""}}},"block_order":["16393762564a90a1c0-0","16393762564a90a1c0-1","16c9ce29-1a86-4f27-ab1b-b5707796aeb4"],"settings":{"show_fullscreen":false,"show_arrow":false,"autoplay":true,"cycle_speed":6,"text_color":"#ffffff","button_color":"#ffffff","button_background":"rgba(0,0,0,0)"}},"featured-product":{"type":"featured-product","blocks":{"product-meta":{"type":"product_meta","settings":{"show_vendor":true,"show_sku":false,"show_product_rating":false,"show_taxes_included":false}},"share-buttons":{"type":"share_buttons","settings":{}},"variant-selector":{"type":"variant_selector","settings":{"selector_mode":"dropdown","show_color_swatch":false,"show_color_carousel":false,"size_chart":""}},"buy-buttons":{"type":"buy_buttons","settings":{"show_price_in_button":false,"show_payment_button":false}}},"block_order":["product-meta","share-buttons","variant-selector","buy-buttons"],"settings":{"subheading":"","title":"Featured product","show_headings_on_mobile":true,"product":"revitalizing-curling-cream"}},"timeline":{"type":"timeline","disabled":true,"blocks":{"item-0":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/moisturizing-shampoo-conditioner-2.png","apply_overlay":true,"title":"HAIR CARE","subheading":"","heading":"Extraordinary shampoos and conditioners that rebuild and restore with each use...","content":"<p><a href=\"\/products\/moisturizing-softening-shampoo\" title=\"Moisturizing & Softening Shampoo\">Learn More<\/a><\/p>"}},"item-1":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/quenching-co-wash-cleansing-conditioner.png","apply_overlay":false,"title":"REFRESH","subheading":"","heading":"Cleanse and rejuvenate your hair using products that strive to restore it to its natural state.","content":"<p><a href=\"\/products\/moisturizing-co-wash-conditioner\" title=\"Quenching Co-Wash Cleansing Conditioner\">Learn More<\/a><\/p>"}},"item-2":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/nourishing-_-growth-oil-treatment.png","apply_overlay":true,"title":"TREATMENTS","subheading":"","heading":"Reverse the damage with Revolutionary treatments that heal, nourish, and repair","content":"<p><a href=\"\/products\/nourishing-moisture-oil-treatment\" title=\"Nourishing & Growth Oil Treatment\">Learn More<\/a><\/p>"}},"15302ec5-92f5-4736-84c3-76e0aa73a27d":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/revitalizing-curling-pudding-2.png","apply_overlay":true,"title":"STYLERS","subheading":"","heading":"Curling, holding, hydrating, and improving your hair are all features of these multitasking stylers.","content":"<p><a href=\"\/products\/revitalizing-curling-cream\" title=\"Revitalizing Curling Pudding\">Learn More<\/a><\/p>"}}},"block_order":["item-0","item-1","item-2","15302ec5-92f5-4736-84c3-76e0aa73a27d"],"settings":{"text_color":"#ffffff"}},"1639369372e53f69d3":{"type":"slideshow","blocks":{"16393693724eab643e-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/footer.png","apply_overlay":true,"content_position":"bottomLeft","show_section":"left","subheading":"why we created african afro","title":"Our Story","content":"<p>Tell your story<\/p>","button_1_text":"click here","button_1_link":"shopify:\/\/pages\/about-us","button_2_text":"","button_2_link":""}}},"block_order":["16393693724eab643e-0"],"settings":{"show_fullscreen":false,"show_arrow":false,"autoplay":true,"cycle_speed":5,"text_color":"#ffffff","button_color":"#363636","button_background":"#ffffff"}},"blog-posts":{"type":"blog-posts","disabled":true,"blocks":{"blog-0":{"type":"blog","settings":{"blog":"news"}}},"block_order":["blog-0"],"settings":{"subheading":"","title":"Featured article","show_category":false,"button_link":"","button_text":"View all articles"}}},"order":["slideshow","16439491463587616c","1639273087c6075a15","collection-list","featured-collections","shop-the-look","1639376256b399ca64","featured-product","timeline","1639369372e53f69d3","blog-posts"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20230404194138_4-banner-002.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/20230404194138_4-banner-002.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "WELCOME TO AFRICAN AFRO",
+            "title": "Natural Hair Care Products",
+            "content": "<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>",
+            "button_1_text": "Shop Now",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_2_text": "Contact Us",
+            "button_2_link": "shopify:\/\/pages\/contact-us"
+          }
+        },
+        "a61b62f0-8f92-4ddf-b9ce-f70194a49b31": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20230404194138_1-banner-00.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/20230404194138_1-banner-00.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "WELCOME TO AFRICAN AFRO",
+            "title": "For The Natural African Beauty",
+            "content": "<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>",
+            "button_1_text": "Shop Now",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_2_text": "Contact Us",
+            "button_2_link": "shopify:\/\/pages\/contact-us"
+          }
+        },
+        "aade2d11-b23b-4b89-baa9-b3af06da1370": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20230404194138_5-banner-003.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/20230404194138_5-banner-003.jpg",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "WELCOME TO AFRICAN AFRO",
+            "title": "Natural Hair Care Products",
+            "content": "<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>",
+            "button_1_text": "Shop Now",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_2_text": "Shop Now",
+            "button_2_link": "shopify:\/\/pages\/contact-us"
+          }
+        },
+        "0c069cdf-e100-4469-ab03-f9aa75aa6675": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20230404194138_3-banner-01-no-text.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/20230404194138_3-banner-01-no-text.jpg",
+            "apply_overlay": false,
+            "content_position": "middleCenter",
+            "show_section": "center",
+            "subheading": "WELCOME TO AFRICAN AFRO",
+            "title": "For The Natural African Beauty",
+            "content": "<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>",
+            "button_1_text": "Shop Now",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_2_text": "Contact Us",
+            "button_2_link": "shopify:\/\/pages\/contact-us"
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/header_3.png",
+            "mobile_image": "shopify:\/\/shop_images\/header_3.png",
+            "apply_overlay": false,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "",
+            "title": "",
+            "content": "<p>Tell your story<\/p>",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "a61b62f0-8f92-4ddf-b9ce-f70194a49b31",
+        "aade2d11-b23b-4b89-baa9-b3af06da1370",
+        "0c069cdf-e100-4469-ab03-f9aa75aa6675",
+        "slide-1"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": true,
+        "autoplay": true,
+        "cycle_speed": 8,
+        "text_color": "#000000",
+        "button_color": "#ffffff",
+        "button_background": "#320032"
+      }
+    },
+    "16439491463587616c": {
+      "type": "shop-now",
+      "blocks": {
+        "1643949146c3b9619f-0": {
+          "type": "quote",
+          "settings": {
+            "content": "<p>AFRICAN QUEEN<\/p><p><em>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/em><\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "1643949146c3b9619f-0"
+      ],
+      "settings": {
+        "title": "Shop now",
+        "collection": "hair",
+        "grid_items_count": 12,
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false
+      }
+    },
+    "1639273087c6075a15": {
+      "type": "text-with-image",
+      "disabled": true,
+      "settings": {
+        "subheading": "Products For the",
+        "title": "AFRICAN QUEEN",
+        "image_position": "right",
+        "content": "<p>Our Professional Natural Hair and Skin Care Products are collections created by us, inspired by us, and produced specifically for us since NO ONE knows our hair and skin better than we do.<\/p>",
+        "link_text": "",
+        "link_url": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "hair",
+            "image": "shopify:\/\/shop_images\/hair_1.png",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "AFRICAN AFRO",
+            "title": "HAIR CARE COLLECTION",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "natural-african-beauty-facial",
+            "image": "shopify:\/\/shop_images\/face_1.png",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "NATURAL AFRICAN BEAUTY",
+            "title": "FACIAL COLLECTION",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": false
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "natural-african-beauty-body",
+            "image": "shopify:\/\/shop_images\/raphael-lovaski-Lw-ahUKYhiY-unsplash.png",
+            "image_alignment": "center center",
+            "content_position": "bottomLeft",
+            "subheading": "NATURAL AFRICAN BEAUTY",
+            "title": "BODY COLLECTION",
+            "button_text": "View products",
+            "button_link": "",
+            "apply_overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "collection-1",
+        "collection-2"
+      ],
+      "settings": {
+        "image_size": "normal",
+        "add_spacing": true,
+        "expand_collection": false,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff",
+        "button_color": "#363636"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "bundles",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collection-0"
+      ],
+      "settings": {
+        "title": "",
+        "layout_mode": "carousel",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "1",
+        "grid_desktop_items_per_row": 4
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moisturizing-shampoo-conditioner-2.png",
+            "dot_style": "light",
+            "product_1": "moisturizing-softening-shampoo",
+            "product_1_horizontal_position": 35,
+            "product_1_vertical_position": 46,
+            "product_2": "moisturizing-softening-conditioner",
+            "product_2_horizontal_position": 54,
+            "product_2_vertical_position": 73,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 50
+          }
+        },
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/revitalizing-curling-pudding_70078d06-e4f7-4048-bdab-f269bfc91f87.png",
+            "dot_style": "light",
+            "product_1": "revitalizing-curling-cream",
+            "product_1_horizontal_position": 21,
+            "product_1_vertical_position": 70,
+            "product_2": "moisturizing-co-wash-conditioner",
+            "product_2_horizontal_position": 45,
+            "product_2_vertical_position": 37,
+            "product_3": "refresh-moisturizing-treatment-spray",
+            "product_3_horizontal_position": 67,
+            "product_3_vertical_position": 27
+          }
+        }
+      },
+      "block_order": [
+        "look-0",
+        "look-1"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "AFRICAN AFRO Favorites",
+        "show_mobile_product_info": false
+      }
+    },
+    "1639376256b399ca64": {
+      "type": "slideshow",
+      "blocks": {
+        "16393762564a90a1c0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shea_butter_1.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "",
+            "title": "STRENGHTENS & REPAIRS",
+            "content": "<p>Tell your story<\/p>",
+            "button_1_text": "Our Shea butter and plant oils work together to protect hair from drying out while also providing necessary hydration without being greasy. They also protect the hair from breakage and split ends, strengthening and repairing it.",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "16393762564a90a1c0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Argan_Oil.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "",
+            "title": "PREVENTS ITCHINESS & FLAKINESS",
+            "content": "<p>Tell your story<\/p>",
+            "button_1_text": "Our Argan Oil and Aloe Vera combine to penetrate deep into the follicles, aiding in the promotion of a healthy scalp and preventing dandruff. The pH of your scalp and hair is balanced with our organic apple cider vinegar. It also gives the hair a lustrous sheen and suppleness.",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "16c9ce29-1a86-4f27-ab1b-b5707796aeb4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Castor_Seed_oil.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "",
+            "title": "PROMOTES GROWTH",
+            "content": "<p>Tell your story<\/p>",
+            "button_1_text": "Our carefully selected botanical oils, including Castor oil, Olive oil, Tea Tree oil, Sweet Almond Oil, Organic Moroccan Argan Oil, and Organic Sunflower Oil, combined promote a healthy scalp and hair growth.",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16393762564a90a1c0-0",
+        "16393762564a90a1c0-1",
+        "16c9ce29-1a86-4f27-ab1b-b5707796aeb4"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 6,
+        "text_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "product-meta": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_product_rating": false,
+            "show_taxes_included": false
+          }
+        },
+        "share-buttons": {
+          "type": "share_buttons",
+          "settings": {
+          }
+        },
+        "variant-selector": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "dropdown",
+            "show_color_swatch": false,
+            "show_color_carousel": false,
+            "size_chart": ""
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price_in_button": false,
+            "show_payment_button": false
+          }
+        }
+      },
+      "block_order": [
+        "product-meta",
+        "share-buttons",
+        "variant-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Featured product",
+        "show_headings_on_mobile": true,
+        "product": "revitalizing-curling-cream"
+      }
+    },
+    "timeline": {
+      "type": "timeline",
+      "disabled": true,
+      "blocks": {
+        "item-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moisturizing-shampoo-conditioner-2.png",
+            "apply_overlay": true,
+            "title": "HAIR CARE",
+            "subheading": "",
+            "heading": "Extraordinary shampoos and conditioners that rebuild and restore with each use...",
+            "content": "<p><a href=\"\/products\/moisturizing-softening-shampoo\" title=\"Moisturizing & Softening Shampoo\">Learn More<\/a><\/p>"
+          }
+        },
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/quenching-co-wash-cleansing-conditioner.png",
+            "apply_overlay": false,
+            "title": "REFRESH",
+            "subheading": "",
+            "heading": "Cleanse and rejuvenate your hair using products that strive to restore it to its natural state.",
+            "content": "<p><a href=\"\/products\/moisturizing-co-wash-conditioner\" title=\"Quenching Co-Wash Cleansing Conditioner\">Learn More<\/a><\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nourishing-_-growth-oil-treatment.png",
+            "apply_overlay": true,
+            "title": "TREATMENTS",
+            "subheading": "",
+            "heading": "Reverse the damage with Revolutionary treatments that heal, nourish, and repair",
+            "content": "<p><a href=\"\/products\/nourishing-moisture-oil-treatment\" title=\"Nourishing & Growth Oil Treatment\">Learn More<\/a><\/p>"
+          }
+        },
+        "15302ec5-92f5-4736-84c3-76e0aa73a27d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/revitalizing-curling-pudding-2.png",
+            "apply_overlay": true,
+            "title": "STYLERS",
+            "subheading": "",
+            "heading": "Curling, holding, hydrating, and improving your hair are all features of these multitasking stylers.",
+            "content": "<p><a href=\"\/products\/revitalizing-curling-cream\" title=\"Revitalizing Curling Pudding\">Learn More<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-0",
+        "item-1",
+        "item-2",
+        "15302ec5-92f5-4736-84c3-76e0aa73a27d"
+      ],
+      "settings": {
+        "text_color": "#ffffff"
+      }
+    },
+    "1639369372e53f69d3": {
+      "type": "slideshow",
+      "blocks": {
+        "16393693724eab643e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/footer.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "show_section": "left",
+            "subheading": "why we created african afro",
+            "title": "Our Story",
+            "content": "<p>Tell your story<\/p>",
+            "button_1_text": "click here",
+            "button_1_link": "shopify:\/\/pages\/about-us",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16393693724eab643e-0"
+      ],
+      "settings": {
+        "show_fullscreen": false,
+        "show_arrow": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "text_color": "#ffffff",
+        "button_color": "#363636",
+        "button_background": "#ffffff"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "disabled": true,
+      "blocks": {
+        "blog-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "news"
+          }
+        }
+      },
+      "block_order": [
+        "blog-0"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Featured article",
+        "show_category": false,
+        "button_link": "",
+        "button_text": "View all articles"
+      }
+    },
+    "7f799e8b-6ea8-4f12-b320-6acb8dc93c85": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--15359571525839__7f799e8b-6ea8-4f12-b320-6acb8dc93c85-1681105954adb82049-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "grid_items_count": 8,
+            "button_text": "View all products"
+          }
+        }
+      },
+      "block_order": [
+        "template--15359571525839__7f799e8b-6ea8-4f12-b320-6acb8dc93c85-1681105954adb82049-0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "layout_mode": "grid",
+        "show_product_info": true,
+        "show_vendor": false,
+        "show_color_swatch": false,
+        "grid_mobile_items_per_row": "2",
+        "grid_desktop_items_per_row": 4
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "16439491463587616c",
+    "1639273087c6075a15",
+    "collection-list",
+    "featured-collections",
+    "shop-the-look",
+    "1639376256b399ca64",
+    "featured-product",
+    "timeline",
+    "1639369372e53f69d3",
+    "blog-posts",
+    "7f799e8b-6ea8-4f12-b320-6acb8dc93c85"
+  ]
+}
