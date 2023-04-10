@@ -107,6 +107,13 @@
         "button_background": "#320032"
       }
     },
+    "dd814262-23de-411f-8ad2-98cc2f9ae2ff": {
+      "type": "custom-arrival",
+      "settings": {
+        "titlee": "New Arrivals",
+        "collection": "natural-african-beauty-body"
+      }
+    },
     "16439491463587616c": {
       "type": "shop-now",
       "blocks": {
@@ -501,17 +508,11 @@
         "button_link": "",
         "button_text": "View all articles"
       }
-    },
-    "dd814262-23de-411f-8ad2-98cc2f9ae2ff": {
-      "type": "custom-arrival",
-      "settings": {
-        "titlee": "New Arrivals",
-        "collection": "natural-african-beauty-body"
-      }
     }
   },
   "order": [
     "slideshow",
+    "dd814262-23de-411f-8ad2-98cc2f9ae2ff",
     "16439491463587616c",
     "1639273087c6075a15",
     "collection-list",
@@ -521,7 +522,6 @@
     "featured-product",
     "timeline",
     "1639369372e53f69d3",
-    "blog-posts",
-    "dd814262-23de-411f-8ad2-98cc2f9ae2ff"
+    "blog-posts"
   ]
 }
