@@ -16,7 +16,19 @@
     max-width: 1320px;
   }
 }
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+@media (min-width: 768px){
+  .col-md-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
 
+}
 .col-12{
   padding: 0 15px;
 }
