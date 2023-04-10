@@ -23,7 +23,7 @@
 
 /* @import url("https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap"); */
 /* font-family: 'Tenor Sans', sans-serif; */
-@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap'); */
 .ProductItem:hover .second-image {
   opacity: 1;
   top: 0;
