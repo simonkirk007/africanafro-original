@@ -54,6 +54,11 @@ g.type="text/javascript"; g.async=true; g.src="https://track.stratanalytics.com/
 {% include 'ets_cf_assets' %}
 
     <link rel="stylesheet" href="{{ 'theme.css' | asset_url }}">
+  
+    <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
     <link rel="stylesheet" href="{{ 'custom-style.css' | asset_url }}">
 
     <script>
@@ -134,7 +139,12 @@ g.type="text/javascript"; g.async=true; g.src="https://track.stratanalytics.com/
 
     <script src="{{ 'libs.min.js' | asset_url }}" defer></script>
     <script src="{{ 'theme.js' | asset_url }}" defer></script>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="{{ 'custom.js' | asset_url }}" defer></script>
+
+
 
     <script>
       (function () {
