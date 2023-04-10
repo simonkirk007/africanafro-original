@@ -1,10 +1,10 @@
 <div class="top-bar">
     <div class="container">
         <div class="top-bar-item align-items-center">
-          {%- for block in section.blocks -%}
-            <p class="text-white py-2 m-0">{{ block.settings.text_left | escape }}</p>
-            <a href="tel:{{ block.settings.phone_left | escape }}"><i class="fas fa-phone-alt"></i> Phone : {{ block.settings.phone_left | escape }}</a>
-          {%- endfor -%}
+          
+            <p class="text-white py-2 m-0">{{ section.settings.text_left | escape }}</p>
+            <a href="tel:{{ section.settings.phone_left | escape }}"><i class="fas fa-phone-alt"></i> Phone : {{ section.settings.phone_left | escape }}</a>
+     
         </div>
     </div>
 </div>
