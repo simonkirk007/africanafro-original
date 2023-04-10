@@ -145,3 +145,83 @@
 .new-arrival {
   padding: 70px 0;
 }
+
+
+
+.best-seeller-inner-item img {
+  width: 70%;
+}
+
+.best-seeller-inner-item p {
+  font-size: 16px;
+  width: 68%;
+  line-height: 27px;
+}
+
+.best-seeller-item {
+  display: flex !important;
+  padding-top: 40px;
+}
+
+.best-seeller-inner-item {
+  width: 50%;
+}
+
+.best-seller-content {
+  width: 50%;
+  text-align: center;
+}
+.best-seller {
+    padding: 80px  0;
+}
+
+.best-seeller-inner-item h3 {
+    font-size: 31px;
+    text-transform: none;
+    padding-bottom: 22px;
+}
+
+.best-seeller-inner-item p {
+    font-size: 16px;
+    line-height: 31px;
+    padding-top: 34px;
+    text-align: left;
+}
+.best-seller-content h2 {
+    margin: 0 auto;
+    background-color: var(--c1);
+    color: #fff;
+    width: max-content;
+    height: max-content;
+    border-radius: 176px;
+    padding: 56px 30px;
+}
+
+.best-seller-content h3 {
+    font-size: 42px;
+    text-transform: none;
+    font-weight: 600;
+    padding: 25px 0;
+}
+
+.best-seller-content h5 {
+    font-size: 25px;
+}
+
+.best-seller-content .rating ul li {
+    font-size: 30px;
+    padding: 6px 0;
+}
+
+.best-seller-content h6 {
+    font-size: 21px;
+    padding: 18px 0;
+    text-decoration: underline !important;
+}
+
+.best-seller-btn {
+    margin-top: 30px;
+}
+.best-seller .slick-prev {
+    left: 78%;
+}
