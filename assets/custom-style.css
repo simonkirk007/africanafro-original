@@ -264,3 +264,6 @@
 .best-seller .slick-prev {
     left: 78%;
 }
+.best-seller .slick-arrow {
+  top: -50px;
+}
