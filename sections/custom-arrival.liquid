@@ -8,8 +8,9 @@
       {% assign selected_collection = section.settings.collection %}
 
       {% for product in collections[selected_collection].products %}
-        
-        {%- render 'product-item', product: product, show_product_info: true, section.settings.show_product_info, show_vendor: section.settings.show_vendor, show_color_swatch: section.settings.show_color_swatch, show_labels: true -%}
+        <div class="col-12">
+            {%- render 'product-item', product: product, show_product_info: true, section.settings.show_product_info, show_vendor: section.settings.show_vendor, show_color_swatch: section.settings.show_color_swatch, show_labels: true -%}
+        </div>
 
       {% endfor %}
 
