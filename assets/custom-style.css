@@ -318,3 +318,39 @@
 .search-wrap {
   margin-right: 25px;
 }
+
+
+section.about {
+  padding: 70px 0;
+}
+
+.about-content h3 {
+  font-size: 41px;
+  padding-bottom: 20px;
+  color: #000;
+  font-weight: 500;
+  text-transform: none;
+}
+
+.about-content p {
+  font-size: 16px;
+  line-height: 45px;
+}
+.about-img {
+  position: relative;
+}
+
+.about-img:before {
+  position: absolute;
+  content: "";
+  top: 30px;
+  left: -25px;
+  background-color: var(--c1);
+  width: 90%;
+  height: 100%;
+  z-index: -1;
+}
+
+.about-content {
+  margin-top: 40px;
+}
