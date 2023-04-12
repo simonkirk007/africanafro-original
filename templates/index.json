@@ -23,8 +23,8 @@
         "a61b62f0-8f92-4ddf-b9ce-f70194a49b31": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20230404194138_1-banner-00.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/20230404194138_1-banner-00.jpg",
+            "image": "shopify:\/\/shop_images\/20230410220558_1-banner-00_1.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/20230410220558_1-banner-00_1.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "show_section": "left",
@@ -551,6 +551,15 @@
         "button_link": "",
         "button_text": "View all articles"
       }
+    },
+    "452bf47a-0f74-4ff8-907c-54728c78a1cb": {
+      "type": "custom-about",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20220326_214351.jpg",
+        "sub_heading": "About Us",
+        "title": "Welcome To African Afro Queen!",
+        "content": "<p>African Afro high-quality premium products are the innovation of Kimberly Jefferson, who was born in Pensacola, FL. Kimberly is all too familiar with the daily struggles we all experience with our hair. Spending endless hours battling unruly, frizzy, and damaged hair was not an option. She always thought to herself: \"There has to be a better way. Daily hairstyling should be easy.\"Kimberly decided to research solutions for herself to find the most natural products available. She discovered an industry that fascinated her and launched her first business venture, marketing and developing products for family and friends. By 2019, she knew the time had come to launch her own brand, and African Afro was born.<\/p>"
+      }
     }
   },
   "order": [
@@ -566,6 +575,7 @@
     "featured-product",
     "timeline",
     "1639369372e53f69d3",
-    "blog-posts"
+    "blog-posts",
+    "452bf47a-0f74-4ff8-907c-54728c78a1cb"
   ]
 }
