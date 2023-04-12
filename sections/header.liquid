@@ -433,8 +433,8 @@ HEADER CONTENT
             <span class="hidden-tablet-and-up">{%- render 'icon' with 'search' -%}</span>
             <span class="hidden-phone">{%- render 'icon' with 'search-desktop' -%}</span>
           </a>
-      {%- endcomment -%}
       
+
     <div class="search-wrap">
       
       <form action="{{ routes.search_url }}" name="GET" role="search" class="Search__Form">
@@ -448,6 +448,7 @@ HEADER CONTENT
       </form>
       
     </div>
+    {%- endcomment -%}
       {%- if shop.customer_accounts_enabled and section.settings.show_icons or use_sidebar_menu -%}
         <a href="{{ routes.account_url }}" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable hidden-phone">
           {%- render 'icon' with 'account' -%}
