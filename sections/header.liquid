@@ -428,11 +428,12 @@ HEADER CONTENT
         </nav>
       {%- endunless -%}
 
+      {%- comment -%}
     <a href="{{ routes.search_url }}" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable {% unless section.settings.show_icons or use_sidebar_menu %}hidden-desk{% endunless %}" data-action="toggle-search" aria-label="{{ 'header.navigation.search' | t }}">
       <span class="hidden-tablet-and-up">{%- render 'icon' with 'search' -%}</span>
       <span class="hidden-phone">{%- render 'icon' with 'search-desktop' -%}</span>
     </a>
-
+{%- endcomment -%}
     <div class="search-wrap">
       
       <form action="{{ routes.search_url }}" name="GET" role="search" class="Search__Form">
