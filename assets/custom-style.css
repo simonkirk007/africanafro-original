@@ -324,17 +324,30 @@ section.about {
   padding: 70px 0;
 }
 
+.about-content h6 {
+  font-size: 20px;
+  text-transform: uppercase;
+  background-color: #320032;
+  width: max-content;
+  color: #fff;
+  padding: 6px 10px;
+  margin-bottom: 17px;
+  font-family: Tenor Sans,sans-serif;
+}
+
 .about-content h3 {
   font-size: 41px;
   padding-bottom: 20px;
   color: #000;
   font-weight: 500;
   text-transform: none;
+  font-family: Tenor Sans,sans-serif;
 }
 
 .about-content p {
   font-size: 16px;
-  line-height: 45px;
+  line-height: 31px;
+  text-align: left;
 }
 .about-img {
   position: relative;
@@ -345,7 +358,7 @@ section.about {
   content: "";
   top: 30px;
   left: -25px;
-  background-color: var(--c1);
+  background-color: #320032;
   width: 90%;
   height: 100%;
   z-index: -1;
