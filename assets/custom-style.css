@@ -302,3 +302,19 @@
 .top-bar-item a {
   color: #fff;
 }
+.search-wrap form input.Search__Input {
+  max-width: 190px;
+  font-size: 14px;
+  height: 40px;
+  padding: 0px 12px;
+}
+.search-wrap form {
+  display: flex;
+  flex-direction: row-reverse;
+  border: 1px solid #000;
+  border-radius: 10px;
+  font-size: ;
+}
+.search-wrap {
+  margin-right: 25px;
+}
