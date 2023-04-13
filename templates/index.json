@@ -57,8 +57,8 @@
         "0c069cdf-e100-4469-ab03-f9aa75aa6675": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20230410220558_2-banner-01_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/20230410220558_2-banner-01_2.jpg",
+            "image": "shopify:\/\/shop_images\/004.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/004.jpg",
             "apply_overlay": false,
             "content_position": "middleCenter",
             "show_section": "center",
